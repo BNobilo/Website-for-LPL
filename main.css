@@ -10,9 +10,8 @@ body {
     background:#343434;
   }
   
-  .nav-link,
-  .navbar-brand {
-    color: #ffffff;
+  .nav-link {
+    color: #27cb53;
     cursor: pointer;
   }
   
@@ -21,9 +20,16 @@ body {
   }
   
   .nav-link:hover {
-    color: #000000;
+    color: #ffffff;
   }
   
   .navbar-collapse {
     justify-content: flex-end;
+  }
+  img {
+    margin-top: 5px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    height: 50px;
   }
