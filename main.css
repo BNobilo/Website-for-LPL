@@ -13,12 +13,11 @@ body {
   .nav-link {
     color: #27cb53;
     cursor: pointer;
+    margin-right: 15px;
+    font-size: 25px;
+    font-family: 'Josefin Sans', sans-serif;
   }
-  
-  .nav-link {
-    margin-right: 1em !important;
-  }
-  
+    
   .nav-link:hover {
     color: #ffffff;
   }
@@ -33,3 +32,7 @@ body {
     margin-right: 0px;
     height: 50px;
   }
+
+
+
+  
