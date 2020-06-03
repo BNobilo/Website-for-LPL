@@ -5,7 +5,7 @@ body {
   }
   
   /*--- navigation bar ---*/
-  
+
   .navbar {
     background:#343434;
   }
@@ -20,6 +20,10 @@ body {
     
   .nav-link:hover {
     color: #ffffff;
+    cursor: pointer;
+    margin-right: 15px;
+    font-size: 25px;
+    font-family: 'Josefin Sans', sans-serif;
   }
   
   .navbar-collapse {
@@ -82,7 +86,7 @@ body {
   .btn:hover{
     background-color: #ffffff;
     font: #000000;
-    font-size: 19px;
+    font-size: 18px;
     font-family: 'Josefin Sans', sans-serif;
     border-color: #ff902e;
     border-style: solid;
