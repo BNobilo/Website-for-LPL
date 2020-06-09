@@ -94,13 +94,13 @@ body {
 
   }
 
-  a {
+  .quick-find a {
     color:#ffffff;
     font-size: 22px;
     font-family: 'Josefin Sans', sans-serif;
   }
 
-  a:hover{
+  .quick-find a:hover{
     color:#ffffff;
     font-size: 22px;
     font-family: 'Josefin Sans', sans-serif;
