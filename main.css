@@ -52,19 +52,13 @@ body {
     font-family: 'Josefin Sans', sans-serif;
   }
   
-  .description p {
-    color: #fff;
-    font-size: 1.3rem;
-    line-height: 1.5;
-  }
- 
-  .description h2{
+  .title h2{
     color: #ffffff;
     font-size: 25px;
     font-family: 'Josefin Sans', sans-serif;
   }
  
-  .description h3{
+  .title h3{
     color: #ffffff;
     font-size: 20px;
     font-family: 'Josefin Sans', sans-serif;
