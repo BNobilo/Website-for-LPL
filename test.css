@@ -1,0 +1,74 @@
+body {
+    padding: 0;
+    margin: 0;
+    background: #000000;
+  }
+
+  /*--- Navigation bar ---*/
+
+.navbar {
+    background-color: #343434;
+}
+
+.nav-link {
+    color: #27cb53;
+    cursor: pointer;
+    margin-right: 15px;
+    font-size: 25px;
+    font-family: 'Josefin Sans', sans-serif;
+  }
+    
+  .nav-link:hover {
+    color: #ffffff;
+    cursor: pointer;
+    margin-right: 15px;
+    font-size: 25px;
+    font-family: 'Josefin Sans', sans-serif;
+  }
+  
+  .navbar-collapse {
+    justify-content: flex-end;
+  }
+
+  .navbar img {
+    margin-top: 5px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    height: 50px;
+  }
+
+  /*---carosal images---*/
+
+
+
+.description{ 
+    text-align: center;
+    align-items: center;
+    padding: 10px;
+}
+
+.specs {
+    padding: 10px;
+    text-align: center;
+    align-items: center;
+}
+
+.quick {
+    padding: 10px;
+    text-align: center;
+    align-items: center;
+}
+
+.info {
+    padding: 10px;
+    text-align: center;
+    align-items: center;
+    word-wrap: break-word;
+}
+
+.footer {
+    padding: 10px;
+    text-align: center;
+    align-items: center;
+}
