@@ -40,18 +40,48 @@ body {
 
   /*---carosal images---*/
 
+.carousel {
+  padding-top: 70px;
+  align-items: center;
+}
 
+/*--- Heading ---*/
 
 .description{ 
     text-align: center;
     align-items: center;
-    padding: 10px;
+    padding-top: 30px;
+}
+
+.description h1 {
+  color: #27cb53;
+  font-size: 30px;
+  font-family: 'Josefin Sans', sans-serif;
+}
+
+.btn{
+  background-color: #ff902e;
+  font: #000000;
+  font-size: 20px;
+  font-family: 'Josefin Sans', sans-serif;
+}
+
+.btn:hover{
+  background-color: #ffffff;
+  font: #000000;
+  font-size: 18px;
+  font-family: 'Josefin Sans', sans-serif;
+  border-color: #ff902e;
+  border-style: solid;
+  border-width: 3px;
+
 }
 
 .specs {
     padding: 10px;
     text-align: center;
     align-items: center;
+  
 }
 
 .quick {
