@@ -237,7 +237,7 @@ body {
   margin-bottom: 0px;
   margin-left: 0px;
   margin-right: 0px;
-  height: 20px;
+  height: 30px;
 }
 
 .copyright h2 {
@@ -245,6 +245,7 @@ body {
   color:#ffffff;
   font-family: 'Josefin Sans', sans-serif;
   word-wrap: break-word;
+
 }
 
 
