@@ -156,7 +156,7 @@ body {
 
 .quick h4 {
   color: #ff902e;
-  font-size: 27px;
+  font-size: 30px;
   font-family: 'Josefin Sans', sans-serif;
   margin: 0;
 }
@@ -174,14 +174,59 @@ body {
 /*--- Information about the event---*/
 
 .info {
-    padding: 10px 20px;
-    text-align: center;
-    align-items: center;
-    word-wrap: break-word;
+  padding: 20px 10px;
+  text-align: center;
+  align-items: center;
+  word-wrap: break-word;
+  color:#ffffff;
+  font-size: 20px;
+  font-family: 'Josefin Sans', sans-serif;
 }
 
-.footer {
-    padding: 10px;
-    text-align: center;
-    align-items: center;
+.info h2{
+  font-size: 30px;
 }
+
+.info a{
+  color:#27bc53;
+  font-style: underline;
+}
+
+/*--- Page Footer ---*/
+
+.footer {
+  margin: 0px;
+  padding-top: 20px;;
+  text-align: left;
+  align-items: left;
+  word-wrap: break-word;
+}
+
+.footer h2 {
+  color:#27bc53;
+  font-size: 25px;
+  font-family: 'Josefin Sans', sans-serif;
+}
+
+.footer h3 {
+  color:#ffffff;
+  font-size: 20px;
+  font-family: 'Josefin Sans', sans-serif;
+}
+
+.footer img {
+  border: 1px #343434;
+}
+
+.credits img {
+  margin-top: 5px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  margin-right: 0px;
+  height: 50px;
+}
+
+
+
+
+
