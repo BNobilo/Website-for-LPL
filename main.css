@@ -9,11 +9,15 @@ body {
 
 @media (max-width: 575.98px) {
   .nav-item {
-    margin: 3px;
+    padding: 5px;
   }
 
   .nav img {
     height: 70px;
+  }
+
+  .login {
+    padding-bottom: 10px;
   }
 
   .footer img {
