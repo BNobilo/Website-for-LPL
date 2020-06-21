@@ -8,12 +8,16 @@ body {
 /*--- For mobile ---*/
 
 @media (max-width: 575.98px) {
-  .login {
-    margin-bottom: 10px;
+  .nav-link {
+    padding: 10px;
   }
 
-  .footer {
-    margin-left: 20px;
+  .nav img {
+    height: 70px;
+  }
+  
+  .login {
+    margin-bottom: 10px;
   }
 
   .footer img {
